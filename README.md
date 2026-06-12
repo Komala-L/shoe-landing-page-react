@@ -11,6 +11,16 @@ A modern and responsive footwear landing page built using **React.js** and **Tai
 - Clean and Reusable React Components
 - Mobile-Friendly Layout
 
+## 🎯 Learning Objectives
+
+This project was created to practice:
+
+- React Component Structure
+- JSX Syntax
+- Tailwind CSS Utility Classes
+- Responsive Web Design
+- Frontend Project Organization
+
 ## 🛠️ Technologies Used
 
 - React.js
@@ -33,6 +43,7 @@ src/
 ```
 
 ## 📸 Preview
+<img width="1900" height="862" alt="Screenshot 2026-06-12 221039" src="https://github.com/user-attachments/assets/6576b25c-b30b-478a-811e-009bbd437073" />
 
 
 ## ⚙️ Installation
@@ -66,13 +77,3 @@ npm run dev
 ```bash
 http://localhost:5173
 ```
-
-## 🎯 Learning Objectives
-
-This project was created to practice:
-
-- React Component Structure
-- JSX Syntax
-- Tailwind CSS Utility Classes
-- Responsive Web Design
-- Frontend Project Organization
