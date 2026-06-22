@@ -43,6 +43,7 @@ src/
 ```
 
 ## 📸 Preview
+
 <img width="1900" height="862" alt="Screenshot 2026-06-12 221039" src="https://github.com/user-attachments/assets/6576b25c-b30b-478a-811e-009bbd437073" />
 
 
@@ -51,7 +52,7 @@ src/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/shoe-landing-page-react.git
+git clone https://github.com/Komala-L/shoe-landing-page-react.git
 ```
 
 2. Navigate to the project directory
